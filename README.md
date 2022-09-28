@@ -1,1 +1,1 @@
-# data_science_praktikum
+# data_science_and_AI_practicum
